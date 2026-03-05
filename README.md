@@ -1,6 +1,6 @@
 # debug-runtime-evidence
 
-A [skills.sh](https://skills.sh) skill for Claude Code that enforces hypothesis-driven debugging with mandatory runtime instrumentation. No guessing — only log-proven fixes.
+A [skills.sh](https://skills.sh) skill for AI coding agents that enforces hypothesis-driven debugging with mandatory runtime instrumentation. No guessing — only log-proven fixes.
 
 ## Install
 
