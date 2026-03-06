@@ -50,6 +50,10 @@ Built-in logging templates for: JavaScript/TypeScript, Python, Go, Ruby, Rust, a
 
 Works with any language — the `[DEBUG-H<N>]` prefix convention is universal.
 
+## Inspiration
+
+Initially inspired by Cursor's debug mode — but designed to work with any AI coding agent and enforcing a stricter evidence-based loop. If you're looking for a Cursor debug mode alternative, a hypothesis-driven debugging skill, or structured debugging for AI agents, this is it.
+
 ## License
 
 MIT
